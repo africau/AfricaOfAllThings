@@ -1,0 +1,9 @@
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "WebSite",
+    "name": "gohugo-amp starter theme",
+    "alternateName": "HUGO AMP",
+    "url": "http:\/\/gohugo-amp.gohugohq.com\/"
+}
+</script>

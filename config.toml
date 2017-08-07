@@ -1,12 +1,4 @@
-<script type="application/ld+json">
-{
-    "@context": "http://schema.org",
-    "@type": "WebSite",
-    "name": "gohugo-amp starter theme",
-    "alternateName": "HUGO AMP",
-    "url": "http:\/\/gohugo-amp.gohugohq.com\/"
-}
-</script>
+
 [params]
     amp = true # enables amp features
     ampCdnRoot = "https://cdn.ampproject.org/" # defined base cdn root of the amp projects files
